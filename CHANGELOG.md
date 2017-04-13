@@ -11,6 +11,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - [ ] Add option to change the username and/or password
 - [ ] Allow user to setup multiple saved logins and give one-click buttons upon logout
 
+## [1.0.1] - 2018-07-16
+
+### Changed
+
+- Extend authorization cookie expiration date to 1 year from now
 
 ## [1.0.0] - 2017-04-11
 
